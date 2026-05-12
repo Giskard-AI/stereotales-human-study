@@ -17,7 +17,7 @@
     "@opennextjs/cloudflare": "^1.17.1",
     "@tailwindcss/typography": "^0.5.19",
     "esbuild": "^0.27.3",
-    "next": "16.1.6",
+    "next": "16.2.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-markdown": "^10.1.0"
